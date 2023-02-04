@@ -8,18 +8,8 @@ new-year-new-me-project - A beautiful html and css project it help me to improve
 portfolio - I create a function html, css, javascript portfolio project 
 donate-today - I create a another protfolio project to skill up 
 Skills:
-1. HTML5
-2. CSS3
-3. JavaScript
-4. Bootstrap
-5. TailwindCSS
-6. REACT
-7. Redus
-8. Node.js
-9. Express
-10. MongoDB
-11. Mongos
-12. API and more
+1. HTML5, 2. CSS3, 3. JavaScript, 4. Bootstrap, 5. TailwindCSS, 6. REACT, 7. Redus
+8. Node.js, 9. Express, 10. MongoDB, 11. Mongos, 12. API and more
 Contact
 Feel free to contact me if you have any questions or want to work together.
 
