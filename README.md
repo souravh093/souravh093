@@ -14,7 +14,7 @@
 
 
 Sourave halder - Web Developer
-Hi there! I am a web developer with a passion for creating functional and aesthetically pleasing websites. I have experience with a variety of programming languages and frameworks, including [list some of your skills].
+Hi there! I am a web developer with a passion for creating functional and aesthetically pleasing websites. I have experience with a variety of programming languages and frameworks.
 
 Portfolio
 Take a look at some of my recent projects:
