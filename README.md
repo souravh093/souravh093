@@ -1,87 +1,80 @@
-<h1 align="center">Hi, I'm Sourave Halder 👋</h1>
+# 🌟 Sourave Halder - Full Stack Web Developer
 
-<h3 align="center">Full-stack Developer | Passionate about building scalable web applications</h3>
-
-<p align="center">
-  <a href="mailto:souravehalder925@gmail.com">Email</a> •
-  <a href="https://souraveportfolio.vercel.app/" target="_blank">Portfolio</a>
-</p>
+![Banner Image](https://via.placeholder.com/1200x300?text=Welcome+to+Sourave's+GitHub) <!-- Replace with your custom banner image URL -->
 
 ---
 
-<h2 align="left">👨‍💻 About Me</h2>
+## 🚀 Current Overview
 
-- 🌱 Currently learning **Python**
-- 🎯 Focused on building efficient full-stack solutions with modern web technologies
-- 💬 Ask me about React, Next.js, or backend development with Prisma and databases
-- 
+Hi! I'm **Sourave Halder**, a passionate Full Stack Web Developer from Barishal, Bangladesh. With 8 months of hands-on experience, I specialize in building dynamic, user-friendly, and visually appealing web applications. My commitment to innovation drives me to constantly explore and implement new technologies in web development.
 
-<h2 align="left">🔧 Technologies I Code With</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" alt="mongoose logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socket.io logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome dev tools logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-</div>
+### 🌍 About Me:
+- 🎓 BBA Honours in Management from Govt B.M College, Barishal (2017-2021)
+- 🌱 Currently learning advanced TypeScript and improving backend scalability.
+- 💼 Full Stack Developer at MNTECH DIGITAL (09/2023 - Ongoing).
+- 🤝 Open to collaborating on innovative projects and exploring freelance opportunities.
 
 ---
 
-<h2 align="left">💬 Soft Skills</h2>
+## 📊 Current Stats
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Communication-blue?style=for-the-badge" alt="Communication badge" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Collaboration-green?style=for-the-badge" alt="Collaboration badge" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Adaptability-yellow?style=for-the-badge" alt="Adaptability badge" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Leadership-purple?style=for-the-badge" alt="Leadership badge" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-red?style=for-the-badge" alt="Problem-solving badge" />
-  <img width="12" />
-</div>
+![Sourave's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravh093&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravh093&layout=compact&theme=radical)
 
 ---
+
+## 📬 Reach Out to Me
+
+- 📧 Email: [souravehalder925@gmail.com](mailto:souravehalder925@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sourave-halder-86a360178/)
+- 🌐 [Portfolio](https://souraveportfolio.vercel.app/)
+- 🐙 [GitHub](https://github.com/souravh093)
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Expertise
+- **Frontend:** React.js, Next.js, Redux, HTML, CSS
+- **Backend:** Express.js, Prisma
+- **Databases:** MySQL, MongoDB
+
+### 🛠 Comfortable With
+- JavaScript, TypeScript, PostgreSQL, Mongoose
+
+### 📋 Tools
+- GitHub, VS Code, Figma, RTK Query
+
+---
+
+## 📝 Resume
+
+[📄 Download My Resume](./Sourave_Resume.pdf) <!-- Ensure the resume file is included in the GitHub repository -->
+
+---
+
+## 🌟 Featured Projects
+
+### 🧬 BIOMED - Task Evaluation Platform
+- **Technologies:** React, Firebase, MongoDB, Express.js, Socket.IO, JWT, Stripe
+- **Live Site:** [biomed-3abc5.web.app](https://biomed-3abc5.web.app/)
+- **Repositories:** [Client](https://github.com/souravh093/biomed-clients) | [Server](https://github.com/souravh093/biomed-servers)
+- **Highlights:**
+  - Task Submission and Evaluation System
+  - Seamless Real-time Communication with Messaging & Video Calls
+  - Role-based Personalized Dashboards
+
+---
+
+## 🌐 Language Proficiency
+- **Bangla:** Native
+- **English:** Proficient
+- **Hindi:** Intermediate
+
+---
+
+## 🏆 Highlights
+- Experienced in working collaboratively with clients to deliver tailored solutions.
+- Adept at maintaining clean, consistent, and scalable code.
+- Continuously learning to keep up with the fast-paced tech world.
