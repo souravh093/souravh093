@@ -6,7 +6,7 @@
 
 ## 🌍 About Me
 
-Hi! I'm **Sourave Halder**, a passionate Full Stack Web Developer from Barishal, Bangladesh. I specialize in crafting high-quality, scalable web applications using Node.js, Express.js, Prisma, and PostgreSQL. My experience spans across e-commerce systems, inventory management, and payment integrations. I am committed to delivering high-quality solutions and continuously evolving with the latest technologies to solve complex challenges. My mission is to create seamless, user-centric digital experiences.
+Hi! I'm **Sourave Halder**, a passionate Full Stack Web Developer from Barishal, Bangladesh. I specialize in crafting high-quality, scalable web applications using React.js, Next.js, TypeScript, TailwindCSS Node.js, Express.js, Prisma, and PostgreSQL. My experience spans across e-commerce systems, inventory management, and payment integrations. I am committed to delivering high-quality solutions and continuously evolving with the latest technologies to solve complex challenges. My mission is to create seamless, user-centric digital experiences.
 
 - 🌱 Currently learning **TypeScript and Next.js**
 - 🎯 Focused on building efficient full-stack solutions with modern web technologies
