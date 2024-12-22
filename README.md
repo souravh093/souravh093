@@ -20,8 +20,8 @@ I am committed to building user-centric digital experiences with high-quality, s
 
 ### Key Technologies I Work With:
 - *Frontend*: React.js, Next.js, TypeScript, TailwindCSS
-- *Backend*: Node.js, Express.js, Prisma, JWT
-- *Databases*: MySQL, PostgreSQL
+- *Backend*: Node.js, Express.js, Prisma, JWT, Mongoose
+- *Databases*: MySQL, PostgreSQL, MongoDB
 - *Other*: Redux Toolkit, RTK Query, Zod, AmarPay Integration, Strip
 
 ## 🛠️ Skills & Tools
