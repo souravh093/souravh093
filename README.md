@@ -6,7 +6,7 @@
 
 ## 🌍 About Me
 
-Hi! I'm **Sourave Halder**, a passionate Full Stack Web Developer from Barishal, Bangladesh. With 8 months of hands-on experience, I specialize in building dynamic, user-friendly, and visually appealing web applications. My commitment to innovation drives me to constantly explore and implement new technologies in web development.
+Hi! I'm **Sourave Halder**, a passionate Full Stack Web Developer from Barishal, Bangladesh. With 8 months of hands-on experience, I specialize in building dynamic, user-friendly, and visually appealing web applications. My commitment to innovation drives me to explore and implement new technologies in web development constantly.
 
 - 🌱 Currently learning **TypeScript and Next.js**
 - 🎯 Focused on building efficient full-stack solutions with modern web technologies
